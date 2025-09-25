@@ -1,7 +1,7 @@
+<h1 align="left">Hi 👋, I'm Ekamjot Kaur</h1>
 <p align="left">
   <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ0bmI1OW0zZmR5d3Q5NnVranJpcWUxemdlMmlydW54cXgxNXUweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 </p>
-<h1 align="left">Hi 👋, I'm Ekamjot Kaur</h1>
 <h3 align="left">Turning Ideas into Interactive Experiences.</h3>
 
 
